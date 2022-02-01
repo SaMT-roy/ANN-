@@ -22,9 +22,12 @@ Model history
 
     accuracy                           0.81      2066
     
+    
    macro avg       0.82      0.81      0.81      2066
    
+   
 weighted avg       0.82      0.81      0.81      2066
+
 
 
 Confusion Matrix 
