@@ -21,11 +21,7 @@ Model history
            1       0.79      0.86      0.82      1041
 
     accuracy                           0.81      2066
-    
-    
    macro avg       0.82      0.81      0.81      2066
-   
-   
 weighted avg       0.82      0.81      0.81      2066
 
 
